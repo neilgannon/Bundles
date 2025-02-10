@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.34f1
+CRC: 3888524461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 563b8c15004315d22a6b2a12ed952b1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a7db46156bce4b263c65ec8ddc773c76
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7ddd4faa8b72806c14a0ef345389f25b
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: d8b7a8043fd022a44934f8341bf5372a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DemoOne/Books/Book 3.asset
+- Assets/DemoOne/Books/Book 2.asset
+- Assets/DemoOne/Books/Book 1.asset
+Dependencies: []
